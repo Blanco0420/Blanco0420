@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My CV: https://blanco0420.github.io/CV/
 <!--
 **Blanco0420/Blanco0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
